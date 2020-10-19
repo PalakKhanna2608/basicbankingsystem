@@ -19,7 +19,7 @@ To use this project, follow these steps:
 5. Make sure the values in the connect.php file match your local variables.
 6. Test the setup by visiting 'localhost/jansevabank/home.php' in your browser. Make sure you edit the location if you've changed the folder or file name.
 
-Note: To perform transactions, you will be prompted for the user password. Enter 'P@ssw0rd' in the input field. Please test this function only on your local setup, not the actual website.
+Note: To perform transactions, you will be prompted for the user password. Enter 'P@ssw0rd' in the input field. Please test this function on your local setup, if required.
 
 ### Folders Included
 
